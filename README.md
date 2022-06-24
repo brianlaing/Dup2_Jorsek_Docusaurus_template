@@ -1,2 +1,2 @@
-# A Heretto template for Docusaurus
+# A duplicate Heretto template for Docusaurus on brianlaing's github.
 
